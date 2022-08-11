@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@samwaters](https://medium.com/@samwaters)
 
-- 💬 Ask me about **react. Ruby on Rails and SQL!**
+- 💬 Ask me about **React. Ruby on Rails and SQL!**
 
 - 📫 How to reach me **samuel.waters@gmail.com**
 
