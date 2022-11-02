@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a SQL database to help my networking and job search.**
 
-- 🌱 I’m currently learning **learning SQL, AWS and Mongo DB**
+- 🌱 I’m currently learning **learning SQL, Node.js, and working on my ability to teach code.**
 
 - 📝 Find my blog posts on [https://medium.com/@samwaters](https://medium.com/@samwaters)
 
