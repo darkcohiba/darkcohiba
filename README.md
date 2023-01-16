@@ -9,7 +9,7 @@
 
 - 📝 Find my blog posts on [https://medium.com/@samwaters](https://medium.com/@samwaters)
 
-- 💬 Ask me about **React. Ruby on Rails and SQL!**
+- 💬 Ask me about **React. MongoDB, Ruby on Rails and SQL!**
 
 - 📫 How to reach me **samuel.waters@gmail.com**
 
