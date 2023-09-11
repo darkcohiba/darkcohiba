@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcohiba&label=Profile%20views&color=0e75b6&style=flat" alt="darkcohiba" /> </p>
 
-- 🔭 I’m currently working on teaching students Javascript, Ruby on Rails, React and learning more about Node.js.
+- 🔭 I’m currently working on teaching students Javascript, Flask, Ruby on Rails, React and learning more about Node.js.
 
 - 🌱 I’m currently learning **learning SQL, Node.js, and working on my ability to teach code.**
 
