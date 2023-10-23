@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **learning SQL, Node.js, and working on my ability to teach code.**
 
+- I am currently keeping notes on Obsidian and saving it on Github! Feel free to check out my knowledge base with Obsidian!
+
 - 📝 Find my blog posts on [https://medium.com/@samwaters](https://medium.com/@samwaters)
 
-- 💬 Ask me about **React. MongoDB, Ruby on Rails and SQL!**
+- 💬 Ask me about **React.Flask, Ruby on Rails and SQL!**
 
 - 📫 How to reach me **samuel.waters@gmail.com**
 
