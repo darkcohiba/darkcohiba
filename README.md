@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **samuel.waters@gmail.com**
 
-- Check out my [Website](samwaters.dev) where I am always experimenting and trying out new tools
+- Check out my [Website](samwaters.dev) where I am always experimenting and trying out new tools!
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1wOGrjj4H-akCkznrG2RZksVqoFZk189Tjw36bUBruO8/edit?usp=sharing](https://docs.google.com/document/d/1wOGrjj4H-akCkznrG2RZksVqoFZk189Tjw36bUBruO8/edit?usp=sharing)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
