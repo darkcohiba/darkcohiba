@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcohiba&label=Profile%20views&color=0e75b6&style=flat" alt="darkcohiba" /> </p>
 
-- 🔭 I’m currently working on teaching students Javascript, Flask, Ruby on Rails, React and learning more about Node.js.
+- 🔭 I’m currently working on Javascript, Flask, Ruby on Rails, React and learning more about Node.js.
 
-- 🌱 I’m currently learning **learning SQL, Node.js, and working on my ability to teach code.**
+- 🌱 I’m currently learning **SQL, Node.js, Python and Websockets.**
 
 - I am currently keeping notes on Obsidian and saving it on Github! Feel free to check out my knowledge base with Obsidian!
 
 - 📝 Find my blog posts on [https://medium.com/@samwaters](https://medium.com/@samwaters)
 
-- 💬 Ask me about **React.Flask, Ruby on Rails and SQL!**
+- 💬 Ask me about **React, Flask, Ruby on Rails and SQL!**
 
 - 📫 How to reach me **samuel.waters@gmail.com**
+
+- Check out my [Website](samwaters.dev) where I am always experimenting and trying out new tools
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1wOGrjj4H-akCkznrG2RZksVqoFZk189Tjw36bUBruO8/edit?usp=sharing](https://docs.google.com/document/d/1wOGrjj4H-akCkznrG2RZksVqoFZk189Tjw36bUBruO8/edit?usp=sharing)
 
