@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkcohiba&show_icons=true&theme=dark&locale=en" alt="darkcohiba" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkcohiba&" alt="darkcohiba" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkcohiba&" alt="darkcohiba" /></p>
