@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on at Datadog as a TSE.
 
-- 🔭 I’m currently working on Javascript, Flask, Ruby on Rails, React and learning more about Node.js.
+<!-- - 🔭 I’m currently working on Javascript, Flask, Ruby on Rails, React and learning more about Node.js. -->
 
-- 🌱 I’m currently learning **SQL, Node.js, Python and Websockets.**
+<!-- - 🌱 I’m currently learning **SQL, Node.js, Python and Websockets.** -->
 
-- I am currently keeping notes on Obsidian and saving it on Github! Feel free to check out my knowledge base with Obsidian!
+<!-- - I am currently keeping notes on Obsidian and saving it on Github! Feel free to check out my knowledge base with Obsidian! -->
 
 - 📝 Find my blog posts on [https://medium.com/@samwaters](https://medium.com/@samwaters)
 
