@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcohiba&label=Profile%20views&color=0e75b6&style=flat" alt="darkcohiba" /> </p>
 
-- 🔭 I’m currently working on at Datadog as a TSE.
+- 🔭 I’m currently working at Datadog as a TSE.
 
 <!-- - 🔭 I’m currently working on Javascript, Flask, Ruby on Rails, React and learning more about Node.js. -->
 
